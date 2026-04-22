@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/BriefHistory-readme.png" style="max-width:100%; height:auto;" />
+</p>
+
 # Brief History
 
 An infinitely explorable legal history engine.
